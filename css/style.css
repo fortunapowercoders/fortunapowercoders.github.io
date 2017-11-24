@@ -1,0 +1,83 @@
+header {
+    background: url(../image/books.jpg) no-repeat right  fixed;
+    background-size: cover;
+	height:330px;
+}
+h1{
+	padding: 100px;
+	color:#7c4b09;
+	margin-top:60;
+	font-size: 50px;
+	font-family: cursive;
+}
+.image{
+	margin-right: 40px;
+	padding-top: 200px;
+}
+
+nav ul li a{
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+
+.navbar{
+	background-color: rgba(240, 214, 142, 0.99);
+	border:none;
+}
+strong{
+	font-size: 40px;
+	font-family: serif;
+	color: #ce7a16;
+}
+
+.para1{
+	font-size: 18px;
+	font-family:monospace;
+}
+.footer{
+	text-align: center;
+	height: 40px;
+	margin: 0;
+	padding: 5px;
+	font-size: 25px;
+	color: #646059;
+}
+a{
+	color: #ce7a16;
+	font-size: 29px;
+	
+}
+body{
+	background-color:#f7f8eb;
+}
+.resume{
+	border-style: solid;
+	color: black;
+	padding: 10px;
+}
+.sub-header{
+	font-size: 25px;}
+.banner {
+    background: url(../image/books.jpg) no-repeat right  fixed;
+    background-size: cover;
+	height:370px;}
+.icons{
+	font-size: 27px;
+}
+.copyright{
+	font-size: 18px;
+}
+strong.contact{
+	text-align: center;
+}
+.powercoders{
+	font-size: 18px;
+	text-decoration: underline;
+}
+.about{
+	font-size: 18px;
+	text-decoration: underline;
+}
+
+
